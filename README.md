@@ -1,6 +1,6 @@
-# SparkAi-ChatGPT-AIiWeb（公益免费版）
+# SparkAi-ChatGPT-AiWeb（公益免费版）
 
-【SparkAi】：**🚀 一站式 { 渐进式 } AIGC 系统，提供面向个人用户 (ToC)、开发者 (ToD) 和企业 (ToB) 的全面解决方案。**
+**【SparkAi】：🚀 一站式 { 渐进式 } AIGC 系统，提供面向个人用户 (ToC)、开发者 (ToD) 和企业 (ToB) 的全面解决方案。**
 
 SparkAi公益免费版：未编译源码暂不开源，公益免费版比较商业版本，商业版有更多的功能支持和快速更新迭代。
 
@@ -27,7 +27,7 @@ Midjourney绘画动态全功能等，为用户带来丰富的智能创作和互�
 - 管理后端：https://ai.sparkaigf.com/sparkai/admin
 - 测试账号密码：admin 123456
 
-## SparkAi-ChatGPT-AIiWeb（公益免费版）-系统功能页面预览
+## SparkAi-ChatGPT-AiWeb（公益免费版）-系统功能页面预览
 
 **AI模型支持**
 
